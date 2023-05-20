@@ -1,6 +1,5 @@
 # Ecommerce project is my another portfolio project in a Data science course on Udemy. In this project, i trained a model that helps an ecommerce company to focus on Mobile App or Company Website. Here, i used a Linear Regression. Following is my answer to the question:
 
-To determine whether the company should focus more on their mobile app or website, we can analyze the coefficients or weights associated with each feature in a regression model. However, since you have only provided the average session length, time on app, time on website, and length of membership without specifying the context or the model used, I cannot give you a definitive answer based solely on these values.
 
 In general, if we assume these coefficients represent the weights from a regression model, a higher coefficient value indicates a stronger positive relationship between the feature and the target variable. Comparing the coefficients for "Time on App" and "Time on Website," we see that the "Time on App" coefficient (38.590159) is significantly higher than the "Time on Website" coefficient (0.190405). This suggests that the time spent on the mobile app has a stronger positive impact on the target variable (which is not provided) compared to the time spent on the website.
 
