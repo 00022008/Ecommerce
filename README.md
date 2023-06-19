@@ -1,8 +1,22 @@
-# Ecommerce project is my another portfolio project in a Data science course on Udemy. In this project, i trained a model that helps an ecommerce company to focus on Mobile App or Company Website. Here, i used a Linear Regression. Following is my answer to the question:
+# eCommerce Dataset
 
+This repository contains a CSV file that provides data related to eCommerce transactions. The dataset includes information about products, customers, orders, and other relevant attributes. It can be used for various analyses, research, and modeling tasks related to eCommerce businesses.
 
-In general, if we assume these coefficients represent the weights from a regression model, a higher coefficient value indicates a stronger positive relationship between the feature and the target variable. Comparing the coefficients for "Time on App" and "Time on Website," we see that the "Time on App" coefficient (38.590159) is significantly higher than the "Time on Website" coefficient (0.190405). This suggests that the time spent on the mobile app has a stronger positive impact on the target variable (which is not provided) compared to the time spent on the website.
+## Dataset
 
-However, without additional information about the target variable, the specific goals of the company, and the context of the analysis, it is difficult to make a conclusive recommendation. Factors such as user behavior, target audience, business objectives, and industry trends should also be considered when deciding where to allocate resources.
+The dataset is provided in CSV (Comma-Separated Values) file format, which is a commonly used format for tabular data. The file includes multiple columns, each representing a specific attribute, and rows corresponding to individual transactions or records.
 
-It's generally a good practice for companies to prioritize mobile app development, considering the increasing popularity of mobile devices and the convenience they offer to users. However, this decision ultimately depends on the specific circumstances and goals of the company. Conducting further analysis, gathering more data, and considering other relevant factors would be beneficial in making an informed decision.
+Please note that the dataset may contain sensitive information, such as customer details or payment information. Ensure that you handle and use the dataset in compliance with data privacy and security regulations.
+
+## Usage
+
+You can utilize this dataset for various purposes, including:
+
+- Analyzing customer behavior, preferences, and purchase patterns.
+- Studying product performance, sales trends, and inventory management.
+- Developing recommender systems or personalized marketing strategies.
+- Conducting market research and competitive analysis.
+- Building predictive models for sales forecasting or customer segmentation.
+
+To use the dataset, you can either download the CSV file directly from this repository or clone the entire repository to your local machine. Once you have the dataset, you can import it into your preferred data analysis or programming environment (e.g., Python, R, Excel) and start exploring and analyzing the data.
+
